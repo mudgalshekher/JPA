@@ -1,0 +1,5 @@
+package com.shekher.spring.payroll;
+
+public class Greeting {
+
+}

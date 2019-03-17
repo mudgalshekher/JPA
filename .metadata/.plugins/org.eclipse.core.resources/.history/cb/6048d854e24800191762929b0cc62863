@@ -1,0 +1,8 @@
+package com.shekher.spring.payroll;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+@Repository
+
+interface EmployeeRepository extends JpaRepository<Employee, Long> {
+
+}
